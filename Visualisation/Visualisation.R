@@ -4,7 +4,7 @@ library(scales)
 library(fmsb)
 library(ggrepel)
 
-setwd(":C/Manjesh_DS")
+setwd(":C/manjesh_DS")
 
 euro <- dollar_format(prefix = "\u20ac", big.mark = ",")
 
