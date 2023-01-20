@@ -4,7 +4,7 @@ library(stringi)
 library(scales)
 
 
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_D")
 
 
 School_2016_2017 = fread("Datasets\\2016-2017 England_ks4final.csv",fill=TRUE) %>% 
