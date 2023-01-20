@@ -3,7 +3,7 @@ library(dplyr)
 library(stringi)
 library(scales)
 
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_DS")
 
 hh2019 = read_csv("Datasets/House Price-2019.csv", show_col_types = FALSE)
 hh2020 = read_csv("Datasets/House Price-2020.csv", show_col_types = FALSE)
