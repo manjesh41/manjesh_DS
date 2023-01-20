@@ -3,7 +3,7 @@ library(dplyr)
 library(stringi)
 library(scales)
 
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_D")
 
 uncleanedhouseprices = read_csv('Cleaning/cleaned datasets/Combined_House_Pricing_2019-2021.csv')
 Population = read_csv("Datasets/Population 2011.csv", show_col_types = FALSE)
