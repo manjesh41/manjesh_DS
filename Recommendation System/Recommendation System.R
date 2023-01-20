@@ -4,7 +4,7 @@ library(scales)
 library(fmsb)
 library(ggrepel)
 
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_DS")
 
 #---------------house rank------
 Town = read_csv("Cleaning/Cleaned Datasets/Cleaned_Town_Population.csv")%>% 
