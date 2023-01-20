@@ -6,7 +6,7 @@ library(dplyr)
 ## Cleaning here
 
 getwd()
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_D")
 Cleaned_HP = read.csv("Cleaning/Cleaned Datasets/Cleaned_House_Pricing_2019-2021.csv" )
 LSOA = read.csv("Datasets/Postcode to LSOA.csv")
 pattern = ' .*$'
