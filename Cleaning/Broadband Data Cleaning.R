@@ -3,7 +3,7 @@ library(dplyr)
 library(stringi)
 library(scales)
 
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_DS")
 
 # BROADBAND DATA CLEANING
 Broadband = read_csv("Datasets/Broadband Speed 2018.csv", show_col_types = FALSE)
