@@ -3,7 +3,7 @@ library(tidyverse)
 library(stringr)
 library(lubridate)
 
-setwd("D:/Shasmit_Data_Science")
+setwd("C:/manjesh_D")
 # Importing CSV files
 Crime_2019_11_lancashire_ = fread("Datasets\\Crime Data Nov 2019 to Oct 2022\\2019-11\\2019-11-lancashire-street.csv")
 Crime_2019_12_lancashire_ = fread("Datasets\\Crime Data Nov 2019 to Oct 2022\\2019-12\\2019-12-lancashire-street.csv")
